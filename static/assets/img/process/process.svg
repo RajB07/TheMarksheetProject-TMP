@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="866.918" height="866.918" viewBox="0 0 866.918 866.918">
+  <defs>
+    <filter id="Ellipse_71" x="311.001" y="312.001" width="245" height="246" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="18" result="blur"/>
+      <feFlood flood-color="#f2f4f9"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_70" x="293.001" y="568.001" width="281" height="280" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="18" result="blur-2"/>
+      <feFlood flood-color="#f2f4f9"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_70-2" x="3.001" y="294.001" width="281" height="281" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="18" result="blur-3"/>
+      <feFlood flood-color="#f2f4f9"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_70-3" x="583.001" y="294.001" width="281" height="281" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="18" result="blur-4"/>
+      <feFlood flood-color="#f2f4f9"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_70-4" x="293.001" y="4.001" width="281" height="281" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="18" result="blur-5"/>
+      <feFlood flood-color="#f2f4f9"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="process" transform="translate(-934.999 -2966.999)">
+    <path id="Path_756" data-name="Path 756" d="M305,0C473.45,0,610,136.554,610,305S473.45,610,305,610A304.938,304.938,0,0,1,0,305C0,136.554,136.554,0,305,0Z" transform="translate(937.121 3400.458) rotate(-45)" fill="#fff" stroke="#f2f4f9" stroke-linecap="round" stroke-width="3" stroke-dasharray="120 70 12"/>
+    <g id="Group_479" data-name="Group 479" transform="translate(1299.565 3332.65)">
+      <g transform="matrix(1, 0, 0, 1, -364.57, -365.65)" filter="url(#Ellipse_71)">
+        <ellipse id="Ellipse_71-2" data-name="Ellipse 71" cx="68.5" cy="69" rx="68.5" ry="69" transform="translate(365 366)" fill="#fff"/>
+      </g>
+      <text id="Process-2" data-name="Process" transform="translate(69.435 77.35)" fill="#f5b458" font-size="21" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="-41.748" y="0">Process</tspan></text>
+    </g>
+    <g id="Group_480" data-name="Group 480" transform="translate(1282.196 3588.841)">
+      <g transform="matrix(1, 0, 0, 1, -347.2, -621.84)" filter="url(#Ellipse_70)">
+        <ellipse id="Ellipse_70-5" data-name="Ellipse 70" cx="86.5" cy="86" rx="86.5" ry="86" transform="translate(347 622)" fill="#fff"/>
+      </g>
+      <text id="Design_Create" data-name="Design
++ Create" transform="translate(86.804 74.159)" fill="#6b6f92" font-size="20" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="-34.98" y="0">Design</tspan><tspan fill="#0da755"><tspan x="-42.73" y="39">+ Create</tspan></tspan></text>
+    </g>
+    <g id="Group_481" data-name="Group 481" transform="translate(992.353 3315.281)">
+      <g transform="matrix(1, 0, 0, 1, -57.35, -348.28)" filter="url(#Ellipse_70-2)">
+        <circle id="Ellipse_70-6" data-name="Ellipse 70" cx="86.5" cy="86.5" r="86.5" transform="translate(57 348)" fill="#fff"/>
+      </g>
+      <text id="Launch_Measure" data-name="Launch
++ Measure" transform="translate(86.647 74.719)" fill="#6b6f92" font-size="20" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="-37.41" y="0">Launch</tspan><tspan fill="#f5b458"><tspan x="-52.05" y="39">+ Measure</tspan></tspan></text>
+    </g>
+    <g id="Group_483" data-name="Group 483" transform="translate(1572.039 3315.281)">
+      <g transform="matrix(1, 0, 0, 1, -637.04, -348.28)" filter="url(#Ellipse_70-3)">
+        <circle id="Ellipse_70-7" data-name="Ellipse 70" cx="86.5" cy="86.5" r="86.5" transform="translate(637 348)" fill="#fff"/>
+      </g>
+      <text id="Define_Plan" data-name="Define
++ Plan" transform="translate(86.961 74.719)" fill="#6b6f92" font-size="20" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="-32.6" y="0">Define</tspan><tspan fill="#3c6dde"><tspan x="-29.94" y="39">+ Plan</tspan></tspan></text>
+    </g>
+    <g id="Group_482" data-name="Group 482" transform="translate(1282.196 3025.438)">
+      <g transform="matrix(1, 0, 0, 1, -347.2, -58.44)" filter="url(#Ellipse_70-4)">
+        <circle id="Ellipse_70-8" data-name="Ellipse 70" cx="86.5" cy="86.5" r="86.5" transform="translate(347 58)" fill="#fff"/>
+      </g>
+      <text id="Listen_Discover" data-name="Listen
++ Discover" transform="translate(86.804 74.562)" fill="#6b6f92" font-size="20" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="-29.54" y="0">Listen</tspan><tspan fill="#e74c3c"><tspan x="-52.23" y="39">+ Discover</tspan></tspan></text>
+    </g>
+    <g id="Group_484" data-name="Group 484" transform="translate(955.944 2989.021)">
+      <ellipse id="Ellipse_75" data-name="Ellipse 75" cx="412.097" cy="412.097" rx="412.097" ry="412.097" fill="none" stroke="#f2f4f9" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2" stroke-dasharray="120 70 12"/>
+      <circle id="Ellipse_78" data-name="Ellipse 78" cx="17.096" cy="17.096" r="17.096" transform="translate(223.76 770.591)" fill="#f5b458"/>
+      <circle id="Ellipse_79" data-name="Ellipse 79" cx="7.978" cy="7.978" r="7.978" transform="translate(660.913 76.345)" fill="#3c6dde"/>
+      <path id="Path_755" data-name="Path 755" d="M420.4,387.264a7.6,7.6,0,1,1-7.6-7.6A7.6,7.6,0,0,1,420.4,387.264Z" transform="translate(304.794 304.072)" fill="#0da755"/>
+      <circle id="Ellipse_80" data-name="Ellipse 80" cx="12.157" cy="12.157" r="12.157" transform="matrix(0.16, -0.987, 0.987, 0.16, 53.121, 196.555)" fill="#e74c3c"/>
+      <text id="x" transform="translate(824.056 420.979)" fill="#e74c3c" font-size="24" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="-6.804" y="0">x</tspan></text>
+      <text id="x-2" data-name="x" transform="translate(4.056 487.979)" fill="#19b5fe" font-size="24" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="-6.804" y="0">x</tspan></text>
+    </g>
+  </g>
+</svg>
