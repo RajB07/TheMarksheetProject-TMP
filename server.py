@@ -4,7 +4,7 @@ from werkzeug.utils import secure_filename
 import main
 
 app = Flask(__name__)
-app.secret_key = b'_5#y2L"F4Q8z\n\xec]/'
+app.secret_key =''    #add secret key 
 
 
 @app.route('/')  # This is nothing but to define the parameters in the URL
@@ -18,11 +18,11 @@ def main_page(page_name):
 
 # I've only done changes to form of index.html. Have to do it to the rest as well.
 
-
-app.config["PDF_UPLOADS"] = "C:\\Users\\ARFAH\\Desktop\\Bugsqaush\\the-bug-sqaushers\\static\\pdf\\uploads"
+#adding  paths 
+app.config["PDF_UPLOADS"] = ""
 app.config["ALLOWED_PDF_EXTENSIONS"] = ["PDF"]
 app.config["MAX_PDF_FILESIZE"] = 50 * 1024 * 1024
-app.config["CSV_FILEPATH"] = "C:\\Users\\ARFAH\\Desktop\\Bugsqaush\\the-bug-sqaushers\\static\\csv-json-txt"
+app.config["CSV_FILEPATH"] = "
 
 
 def allowed_pdf(filename):
