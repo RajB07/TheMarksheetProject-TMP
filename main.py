@@ -18,12 +18,16 @@ def run_main(file_path, filename):
     # printing number of pages in pdf file
     n = int(pdfReader.numPages)
 
-    txt_path = "C:\\Users\\ARFAH\\Desktop\\Bugsqaush\\the-bug-sqaushers\\static\\csv-json-txt\\" + \
-        filename[:-4]+'_' + 'student_data.txt'
-    csv_path = "C:\\Users\\ARFAH\\Desktop\\Bugsqaush\\the-bug-sqaushers\\static\\csv-json-txt\\" + \
-        filename[:-4]+'_' + "student_data.csv"
-    json_path = "C:\\Users\\ARFAH\\Desktop\\Bugsqaush\\the-bug-sqaushers\\static\\csv-json-txt\\" + \
-        filename[:-4]+'_' + "student_data.json"
+    txt_path = "" + \  #add path to text file
+        filename[:-4]+'_' + ''
+    
+    #add path to csv file 
+    csv_path = "" + \
+        filename[:-4]+'_' + ""
+    
+     #add path to json file 
+    json_path = "\" + \
+        filename[:-4]+'_' + "s"
 
     file = open(txt_path, 'w')
     # creating a page object
