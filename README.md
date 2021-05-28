@@ -8,16 +8,16 @@ This Project is a PDF to EXCEL converter designed specifically on Mumbai Univers
 We used Python Regular Expressions to solve this problem. The result document was taken as the input and the output was shown on the WebApp made using Flask. We also added some visualizations for better understanding of the input data. 
 
 
-PDF to be Uploaded (Input) (Blurred for Confidentiality since it has real data of students)=>
+PDF to be Uploaded (Input) (Blurred for Confidentiality since it has real data of students)=> It can be uploaded on the webapp 
 
 ![PDF](https://github.com/diwan-kadir/TheMarksheetProject-TMP/blob/new/images/Marksheet.PNG)
 
-Excel received (Output) =>
+Excel received (Output) => Noisy/Unformatted  PDF converted into a neat Excel form  
 
 ![Excel](https://github.com/diwan-kadir/TheMarksheetProject-TMP/blob/new/images/Excel%20Marksheet.PNG)
 
 
-Analysis:
+Analysis: The output obtained is stored in the server and the analysis for the same is shown 
 
 ![Analysis](https://github.com/diwan-kadir/TheMarksheetProject-TMP/blob/new/images/Analysis.PNG)
 
