@@ -10,11 +10,11 @@ We used Python Regular Expressions to solve this problem. The result document wa
 
 PDF to be Uploaded (Input) (Blurred for Confidentiality since it has real data of students)=>
 
-![PDF](https://github.com/diwan-kadir/TheMarksheetProject-TMP/blob/new/images/Analysis.PNG)
+![PDF](https://github.com/diwan-kadir/TheMarksheetProject-TMP/blob/new/images/Marksheet.PNG)
 
 Excel received (Output) =>
 
-![Excel](https://github.com/diwan-kadir/TheMarksheetProject-TMP/blob/new/images/Analysis.PNG)
+![Excel](https://github.com/diwan-kadir/TheMarksheetProject-TMP/blob/new/images/Excel%20Marksheet.PNG)
 
 
 Analysis:
