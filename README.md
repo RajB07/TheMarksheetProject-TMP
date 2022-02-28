@@ -11,6 +11,8 @@ We used Python Regular Expressions to solve this problem. The result document wa
 
 https://user-images.githubusercontent.com/56472876/126896251-989b01f4-9409-48db-a1fc-339d3e90c942.mp4
 
+# Screenshots of process
+
 PDF to be Uploaded (Input) (Blurred for Confidentiality since it has real data of students)=> It can be uploaded on the webapp 
 
 ![PDF](https://github.com/diwan-kadir/TheMarksheetProject-TMP/blob/new/images/Marksheet.PNG)
